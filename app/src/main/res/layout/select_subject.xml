@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:TagsEditText="http://schemas.android.com/apk/res-auto">
+
+    <mabbas007.tagsedittext.TagsEditText
+        android:id="@+id/tagsEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        TagsEditText:allowSpaceInTag="true"
+        TagsEditText:tagsBackground="@drawable/tags"
+        TagsEditText:tagsCloseImageRight="@drawable/tag_close"
+        />
+
+</LinearLayout>

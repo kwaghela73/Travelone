@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/selectmedium"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        >
+        <RadioButton android:id="@+id/bus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bus"
+            android:textStyle="bold"
+            android:textColor="@color/md_grey_600"
+            android:paddingRight="30dp"
+            />
+        <RadioButton android:id="@+id/train"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/train"
+            android:textStyle="bold"
+            android:textColor="@color/md_grey_600"
+            />
+        <RadioButton android:id="@+id/water"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/via_water"
+            android:textStyle="bold"
+            android:textColor="@color/md_grey_600"
+            />
+        <RadioButton android:id="@+id/air"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/via_air"
+            android:textStyle="bold"
+            android:textColor="@color/md_grey_600"
+            />
+    </RadioGroup>
+
+</LinearLayout>

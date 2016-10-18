@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/description"
+        android:layout_width="230dp"
+        android:layout_height="match_parent"
+        android:inputType="textMultiLine"
+        android:focusable="true"
+        android:hint="Describe your Intrest."
+        android:textColor="@android:color/darker_gray"
+        android:textColorHint="@android:color/darker_gray"
+        android:padding="8dp" />
+
+</LinearLayout>

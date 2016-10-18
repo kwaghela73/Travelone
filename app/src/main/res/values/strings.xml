@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Travelone</string>
+    <string name="Discuss">Let\'s Discuss</string>
+    <string name="travel">Let\'s Travel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reservetravel">RESERVE TRAVEL</string>
+    <string name="profile">PROFILE</string>
+    <string name="facebook_app_id" translatable="false">1238328062866046</string>
+    <string name="sign_out" >SIGN OUT</string>
+    <string name="hint_email">Email</string>
+    <string name="user_name">user name</string>
+    <string name="Learner">Learner</string>
+    <string name="tutor">Tutor</string>
+    <string name="via_air">Via Air</string>
+    <string name="bus">Bus</string>
+    <string name="train">Train</string>
+    <string name="via_water">Water</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="addinfo">Address Info.</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="msg_subscribed">message Subscribe</string>
+    <string name="msg_token_fmt">msg token formate</string>
+    <string name="FCM_PREF">com.demons.travelone.fcm_pref</string>
+    <string name="FCM_TOKEN">com.demons.travelone.fcm_token</string>
+</resources>
